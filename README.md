@@ -11,7 +11,7 @@ I love exploring new technologies and turning ideas into functional, user-friend
 
 - 🌍 Based in **Indonesia 🇮🇩**
 - 💻 Currently working with **Laravel**, **Vue.js**, and **Kotlin**
-- 🌱 Currently learning **Nuxt.js**, **Express.js**, and **Progressive Web Apps (PWA)**
+- 🌱 Currently learning **Nuxt.js**, **Elysia.js**, and **GraphQL**
 - ⚙️ Experienced with **RESTful APIs**, **Socket.io**, **Tailwind CSS**, and **Material Design**
 - 🔐 Focused on **clean architecture**, **authentication**, and **real-time communication**
 - 💬 Ask me about **Laravel**, **Vue 3**, or **Android Kotlin**
@@ -47,7 +47,7 @@ I love exploring new technologies and turning ideas into functional, user-friend
 
 <p align="left">
   <a href="https://github.com/WTRois" target="_blank"><img src="https://img.shields.io/badge/GitHub-WTRois-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-rois-akbar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Rois%20Akbar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/roisakbr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Rois%20Akbar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:roisakbar.dev@gmail.com"><img src="https://img.shields.io/badge/Email-roisakbar.dev%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
 
