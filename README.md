@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there 👋, I'm Muhammad Rois Akbar
 
-<!--
-**WTRois/WTRois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Fullstack Developer | Android Developer | Web Developer**
 
-Here are some ideas to get you started:
+I'm passionate about building clean, efficient, and scalable applications — whether on the web or mobile.  
+I love exploring new technologies and turning ideas into functional, user-friendly digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌍 Based in **Indonesia 🇮🇩**
+- 💻 Currently working with **Laravel**, **Vue.js**, and **Kotlin**
+- 🌱 Currently learning **Nuxt.js**, **Express.js**, and **Progressive Web Apps (PWA)**
+- ⚙️ Experienced with **RESTful APIs**, **Socket.io**, **Tailwind CSS**, and **Material Design**
+- 🔐 Focused on **clean architecture**, **authentication**, and **real-time communication**
+- 💬 Ask me about **Laravel**, **Vue 3**, or **Android Kotlin**
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- Vue 3 • Nuxt.js • Inertia.js • Tailwind CSS • Bootstrap 5  
+
+**Backend:**
+- Laravel • Express.js • MySQL • REST API • WebSocket / Socket.io  
+
+**Mobile:**
+- Android (Kotlin) • Retrofit • WorkManager • Material Design 3  
+
+**Tools & Workflow:**
+- Git & GitHub • Vite • Bun • Postman • Nginx / Apache • Docker (beginner)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WTRois&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WTRois&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/WTRois" target="_blank"><img src="https://img.shields.io/badge/GitHub-WTRois-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-rois-akbar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Rois%20Akbar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:roisakbar.dev@gmail.com"><img src="https://img.shields.io/badge/Email-roisakbar.dev%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+> I believe good code should not only **work**, but also be **understandable** and **beautifully structured** ✨
+
+---
+
+⭐️ *Thanks for visiting! Feel free to explore my repositories and connect with me.*
