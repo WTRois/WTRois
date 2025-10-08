@@ -37,8 +37,7 @@ I love exploring new technologies and turning ideas into functional, user-friend
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WTRois&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WTRois&theme=tokyonight" />
+  <img width="98%" src="https://github-readme-stats.vercel.app/api?username=WTRois&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
