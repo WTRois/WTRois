@@ -24,13 +24,13 @@ I love exploring new technologies and turning ideas into functional, user-friend
 - Vue 3 • Nuxt.js • Inertia.js • Tailwind CSS • Bootstrap 5  
 
 **Backend:**
-- Laravel • Express.js • MySQL • REST API • WebSocket / Socket.io  
+- Elysia.js • Laravel • Express.js • MySQL • PostgreSQL • Firebase • REST API • GraphQL • WebSocket / Socket.io  
 
 **Mobile:**
-- Android (Kotlin) • Retrofit • WorkManager • Material Design 3  
+- Android (Kotlin) • Retrofit • Ktor • WorkManager • Material Design 3  
 
 **Tools & Workflow:**
-- Git & GitHub • Vite • Bun • Postman • Nginx / Apache • Docker (beginner)
+- Git & GitHub • Swagger • Vite • Bun • Postman • Nginx / Apache • Docker (beginner)
 
 ---
 
