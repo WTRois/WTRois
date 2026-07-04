@@ -2,7 +2,7 @@
 
 **Fullstack Developer** · Government & Enterprise Systems · Samarinda, Indonesia 🇮🇩
 
-4+ years building production-ready web and mobile applications for government and enterprise environments. Focused on clean architecture, efficient APIs, and maintainable codebases.
+5+ years building production-ready web and mobile applications for government and enterprise environments. Focused on clean architecture, efficient APIs, and maintainable codebases.
 
 ---
 
